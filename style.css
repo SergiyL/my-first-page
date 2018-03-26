@@ -39,7 +39,7 @@ nav div {
 }
 section {
     width: 49.5%;
-    margin-right: 10px;
+    margin-right: 1.5%;
 }
 .left:first-child {
     height: 200px;
@@ -56,13 +56,13 @@ section {
     margin-top: -5%;
 }
 article {
-    margin-right: 10px;
+    margin-right: 1.5%;
     width: 23%;
     margin-top: 0;
 }
 .center:first-child {
     height: 240px;
-    margin-bottom: 6px;
+    margin-bottom: 4%;
 }
 .center:first-child span {
     margin-top: -10%;
